@@ -1,6 +1,6 @@
   ## Hi there 👋
 
-<!--
+
 Welcome to my README
 
 
@@ -9,4 +9,4 @@ Welcome to my README
 - You can reach me through the following:
   -Email: jimmytwxu2gmail.com
   -Discord: PlayerJman001
--->
+
